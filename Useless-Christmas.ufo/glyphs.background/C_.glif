@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="1212"/>
+  <unicode hex="0043"/>
+  <image fileName="C__small.png" xScale="1.3389175728869191" yScale="1.3389175728869191" xOffset="46.42232135014727" yOffset="-284.5907415772634"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <real>0.25442975759506226</real>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4000000059604645</real>
+    </dict>
+  </lib>
+</glyph>
