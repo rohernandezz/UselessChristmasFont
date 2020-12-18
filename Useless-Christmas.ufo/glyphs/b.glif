@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="R.alt" format="2">
-  <advance width="500"/>
+<glyph name="b" format="2">
+  <advance width="812"/>
+  <unicode hex="0062"/>
   <outline>
+    <component base="B"/>
   </outline>
   <lib>
     <dict>

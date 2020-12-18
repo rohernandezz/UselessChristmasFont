@@ -1,6 +1,6 @@
-names = ["Ro", "Zrinka", "Tamara", "Gen", "Whoever"]
+names = ["Ro", "Zrinka", "Caro Giovagnoli", "Laura García", "Sandra Morales", "Andrea Buendía", "Alejandra Hernández", "Zaira", "Constanza", "Manuel López", "Federico", "Adriana", "Monica", "Tina", "Yorch", "José Luis Coyolt", "Sandra García", "Karla Pasten", "Juan Villanueva", "Ana Michel", "Ximena", "Tamara", "Pulpo", "Victor Manuel"]
 names.sort()
-glyphs = "ABCDEFGHIJKLMNOPQRSTUVWXYZ.,:¿?!¡&®"
+glyphs = "ABDEFGHIJKLMNOPQRSTUVWXYZ.,:¿?!¡&®"
 
 
 leftovers = glyphs

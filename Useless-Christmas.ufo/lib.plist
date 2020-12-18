@@ -104,6 +104,32 @@
       <string>asciicircum</string>
       <string>underscore</string>
       <string>grave</string>
+      <string>a</string>
+      <string>b</string>
+      <string>c</string>
+      <string>d</string>
+      <string>e</string>
+      <string>f</string>
+      <string>g</string>
+      <string>h</string>
+      <string>i</string>
+      <string>j</string>
+      <string>k</string>
+      <string>l</string>
+      <string>m</string>
+      <string>n</string>
+      <string>o</string>
+      <string>p</string>
+      <string>q</string>
+      <string>r</string>
+      <string>s</string>
+      <string>t</string>
+      <string>u</string>
+      <string>v</string>
+      <string>w</string>
+      <string>x</string>
+      <string>y</string>
+      <string>z</string>
       <string>braceleft</string>
       <string>bar</string>
       <string>braceright</string>
@@ -214,7 +240,7 @@
       <string>quoteleft</string>
       <string>quoteright</string>
       <string>minus</string>
-      <string>R.alt</string>
+      <string>I.alt</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>

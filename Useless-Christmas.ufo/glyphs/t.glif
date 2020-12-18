@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
+  <advance width="1135"/>
+  <unicode hex="0074"/>
+  <outline>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9855,0.0093,0.9992,1</string>
+    </dict>
+  </lib>
+</glyph>
