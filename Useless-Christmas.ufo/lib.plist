@@ -11,6 +11,8 @@
         <string>characterSet</string>
       </dict>
     </array>
+    <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+    <false/>
     <key>com.typemytype.robofont.compileSettings.autohint</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -18,9 +20,13 @@
     <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
     <true/>
     <key>com.typemytype.robofont.compileSettings.decompose</key>
-    <false/>
+    <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.generateFormat</key>
     <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.layerName</key>
+    <string>foreground</string>
+    <key>com.typemytype.robofont.compileSettings.path</key>
+    <string>/Users/Ro/Desktop/Useless-Christmas_01.otf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
@@ -98,32 +104,6 @@
       <string>asciicircum</string>
       <string>underscore</string>
       <string>grave</string>
-      <string>a</string>
-      <string>b</string>
-      <string>c</string>
-      <string>d</string>
-      <string>e</string>
-      <string>f</string>
-      <string>g</string>
-      <string>h</string>
-      <string>i</string>
-      <string>j</string>
-      <string>k</string>
-      <string>l</string>
-      <string>m</string>
-      <string>n</string>
-      <string>o</string>
-      <string>p</string>
-      <string>q</string>
-      <string>r</string>
-      <string>s</string>
-      <string>t</string>
-      <string>u</string>
-      <string>v</string>
-      <string>w</string>
-      <string>x</string>
-      <string>y</string>
-      <string>z</string>
       <string>braceleft</string>
       <string>bar</string>
       <string>braceright</string>
@@ -234,6 +214,7 @@
       <string>quoteleft</string>
       <string>quoteright</string>
       <string>minus</string>
+      <string>R.alt</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
